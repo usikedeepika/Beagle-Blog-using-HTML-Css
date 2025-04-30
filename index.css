@@ -1,0 +1,47 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#beagle-intro{
+    margin-bottom: 30px;
+    margin-left: 20px;
+
+    width:80%;
+    height:200px;
+    border:1px solid black;
+    box-sizing: border-box;
+}
+
+#beagle-intro>div>p{
+    margin-left: 20px;
+}
+#beagle-intro>div>h1{
+    margin-left: 20px;
+    text-decoration: underline;
+}
+#beagle-intro>div>a{
+    margin-left: 20px;
+    margin-bottom:5px;
+    text-decoration-line: none;
+}
+
+#beagle-image{
+    margin-left: 20px;
+}
+
+#beagle-image>a{
+    text-decoration-line: none;
+    color: blue;
+    margin-top: 10px;
+}
+#beagle-image>h1{
+    text-decoration: underline;
+}
+
+#beagle-info{
+    margin-left: 20px;
+}
+
+#beagle-info>h1{
+    text-decoration: underline;
+}
